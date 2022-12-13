@@ -3,7 +3,7 @@ import Profile from "../profile";
 
 function index() {
   return (
-    <div>
+    <div className=" hero max-w-full ">
       <Profile />
     </div>
   );
