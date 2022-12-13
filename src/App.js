@@ -1,7 +1,6 @@
 import "./App.css";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Main from "./components/pages/main";
-import background from "./assets/background/background.png";
 
 function App() {
   return (
